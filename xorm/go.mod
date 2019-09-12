@@ -1,4 +1,4 @@
-module gitea.com/longdahai/cmd
+module gitea.com/longdahai/cmd/xorm
 
 go 1.12
 
