@@ -1,4 +1,4 @@
-module gitea.com/longdahai/cmd
+module github.com/longdahai/cmd
 
 go 1.12
 
